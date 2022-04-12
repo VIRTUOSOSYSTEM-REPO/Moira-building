@@ -64,3 +64,8 @@
       text-align: left;
     }
   }
+
+  .header-position {
+    position: fixed;
+    z-index: 1000;
+  }
